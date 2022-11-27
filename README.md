@@ -17,7 +17,7 @@ Portfolio requirement for Applied Data Science Graduate program at Syracuse Univ
 **Ashraf_Wan_Portfolio_Milestone_Presentation_Video.mp4** -> The video of Ashraf Wan presenting the presentation<br>
 
 **Projects** -> Subfolder with the four different projects<br>
-	**IST 707** - Applied Machine Learning -> This folder contains Ashraf Wan's final project deliverables for IST 707 course <br>
-	**IST 719** - Information Visualization -> This folder contains Ashraf Wan's final project deliverables for IST 719 course <br>
-	**IST 736** - Text Mining -> This folder contains Ashraf Wan's final project deliverables for IST 736 course <br>
-	**MBC 638** - Decision Analysis and Decision Making -> This folder contains Ashraf Wan's final project deliverables for IST 736 course<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**IST 707** - Applied Machine Learning -> This folder contains Ashraf Wan's final project deliverables for IST 707 course <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**IST 719** - Information Visualization -> This folder contains Ashraf Wan's final project deliverables for IST 719 course <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**IST 736** - Text Mining -> This folder contains Ashraf Wan's final project deliverables for IST 736 course <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MBC 638** - Decision Analysis and Decision Making -> This folder contains Ashraf Wan's final project deliverables for IST 736 course<br>
